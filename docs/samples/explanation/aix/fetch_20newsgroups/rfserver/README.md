@@ -1,1 +1,1 @@
-# Random Forest for MNIST on kfserving
+# Random Forest for NewsGroups on KServe
