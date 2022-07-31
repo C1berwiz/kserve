@@ -1,1 +1,1 @@
-# Random Forest for Fetch_20newsgroups on kfserving
+# Random Forest for NewsGroups on KServe
