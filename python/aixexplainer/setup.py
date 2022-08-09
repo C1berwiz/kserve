@@ -33,10 +33,10 @@ setup(
     install_requires=[
         "kserve>=0.7.0",
         "argparse >= 1.4.0",
-        "aix360 >= 0.1.0",
+        "aix360 >= 0.2.0",
         "lime >= 0.1.1.37",
         "nest_asyncio>=1.4.0",
-        "cvxpy == 1.1.7"
+        "cvxpy == 1.1.13"
     ],
     tests_require=tests_require,
     extras_require={'test': tests_require}
